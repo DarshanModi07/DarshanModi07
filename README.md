@@ -32,7 +32,7 @@
 ---
 
 ### 🧰 Languages I Know
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
