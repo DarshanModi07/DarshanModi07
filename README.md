@@ -18,9 +18,8 @@
 
 ---
 
-### 🐍 Watch my GitHub contributions come to life
-
-![Snake animation](https://github.com/DarshanModi07/snk/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Watch my contribution graph get eaten by a snake!
+![snake gif](https://darshanmodi07.github.io/snk/github-contribution-grid-snake.svg)
 
 ---
 
