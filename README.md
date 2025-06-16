@@ -32,7 +32,13 @@
 ---
 
 ### 🧰 Languages I Know
-<p> <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+</p>
 
 ---
 
