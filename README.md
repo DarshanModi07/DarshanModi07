@@ -18,7 +18,7 @@
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by a snake!
+### 🐍 My contribution graph 
 ![snake gif](https://darshanmodi07.github.io/snk/github-contribution-grid-snake.svg)
 
 ---
