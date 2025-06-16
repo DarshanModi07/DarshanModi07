@@ -23,5 +23,5 @@
 📌 C++ DSA Practice (Daily)
 📌 Real-world Project Building
 📌 SDE-level Interview Preparation
-
+```
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DarshanModi07&theme=radical&no-frame=true&column=7"/> </p>
