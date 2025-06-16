@@ -33,6 +33,7 @@
 
 ### 📫 Connect with Me
 - 💬 Email: darshanmodi016@gmail.com
-- 🌐 LinkedIn: Darshan Modi
+- 🌐 LinkedIn: [Darshan Modi](https://www.linkedin.com/in/darshan-modi-0b221b329)
+
 
 
