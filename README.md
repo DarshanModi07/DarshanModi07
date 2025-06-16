@@ -18,6 +18,12 @@
 
 ---
 
+### 🐍 Watch my GitHub contributions come to life
+
+![Snake animation](https://github.com/DarshanModi07/snk/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🧠 Currently Focused On
 ```bash
 📌 C++ DSA Practice (Daily)
