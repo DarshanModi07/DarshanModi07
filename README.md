@@ -1,12 +1,11 @@
 <div align="center">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380"/>
 
 <div align="left">
-
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&vCenter=true&multiline=true&width=420&height=110&lines=Hey%2C+I'm+Darshan+Modi+%F0%9F%91%8B;Backend+Developer+%7C+DSA+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&vCenter=true&multiline=true&width=420&height=110&lines=Hey%2C+I'm+Darshan+Modi+%F0%9F%91%8B;Aspiring+SDE+%7C+DSA+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +26,7 @@
 ```typescript
 const darshan = {
   name        : "Darshan Modi",
-  role        : "Backend Developer & Full-Stack Builder",
+  role        : "Aspiring SDE | Full-Stack Builder",
   university  : "Birla Vishvakarma Mahavidyalaya (BVM), Gujarat",
   semester    : "3rd Semester — IT/CS",
   focus       : ["Node.js", "Express", "MongoDB", "DSA with C++"],
@@ -45,7 +44,7 @@ const darshan = {
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  🎯  Becoming a top-tier backend engineer            ║
+║  🎯  Becoming a top-tier software engineer           ║
 ║  📐  Building systems that scale under pressure      ║
 ║  🏆  Cracking internships at product-based companies ║
 ║  🔨  Shipping real products, not just tutorials      ║
@@ -82,17 +81,13 @@ const darshan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DarshanModi07&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModi07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModi07&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=DarshanModi07&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=c9d1d9"/>
+<img src="https://streak-stats.demolab.com/?user=DarshanModi07&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
