@@ -149,8 +149,6 @@ Three role-based dashboards (User, Owner, Admin) with live order management and 
 
 </div>
 
-> Your real GitHub contribution calendar shows automatically below this README on your profile page — no widget needed for that.
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
 </div>
