@@ -8,13 +8,6 @@
 
 <br/>
 
-<!-- DEV STICKER -->
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="28" />
-<i>building things that scale, one commit at a time</i>
-
-<br/><br/>
-
-<!-- BADGES -->
 <a href="https://github.com/DarshanModi07">
   <img src="https://img.shields.io/badge/GitHub-DarshanModi07-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117" />
 </a>
@@ -24,11 +17,14 @@
 <a href="https://leetcode.com/Darshan_Modi">
   <img src="https://img.shields.io/badge/LeetCode-Darshan__Modi-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" />
 </a>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=DarshanModi07&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
 
 ## ◈ About Me
 
@@ -39,7 +35,7 @@
 ```yaml
 name:       Darshan Modi
 college:    BVM Engineering — Vallabh Vidyanagar
-semester:   3rd (CS/IT)
+semester:   5th (CS/IT)
 
 role:       Software Development Engineer
 focus:
@@ -71,7 +67,9 @@ goal:       Top-tier SDE through relentless execution
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
 
 ## ◈ Tech Arsenal
 
@@ -100,7 +98,9 @@ goal:       Top-tier SDE through relentless execution
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
 
 ## ◈ Featured Builds
 
@@ -108,22 +108,26 @@ goal:       Top-tier SDE through relentless execution
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 SynapseOS
+![Status](https://img.shields.io/badge/status-in_progress-38bdf8?style=flat-square)
+
 **AI-powered multi-tenant collaborative workspace**
 
-Node.js · PostgreSQL · Prisma · Redis · BullMQ · S3 · Pinecone
+`Node.js` `PostgreSQL` `Prisma` `Redis` `BullMQ` `S3` `Pinecone`
 
 Team Lead → AI subtask suggestion → human approval pipeline, built for real production scale.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍔 FoodyFly
+![Status](https://img.shields.io/badge/status-shipped-22c55e?style=flat-square)
+
 **Full-stack MERN food ordering platform**
 
-React · Node.js · MongoDB · Stripe · Passport.js
+`React` `Node.js` `MongoDB` `Stripe` `Passport.js`
 
 Three role-based dashboards (User, Owner, Admin) with live order management and OAuth.
 
@@ -133,7 +137,9 @@ Three role-based dashboards (User, Owner, Admin) with live order management and 
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
 
 ## ◈ GitHub Activity
 
@@ -145,13 +151,23 @@ Three role-based dashboards (User, Owner, Admin) with live order management and 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModi07&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="340" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=transparent&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=f472b6&text_color=94a3b8&include_all_commits=true" width="0" height="0" style="display:none" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
+
+## ◈ Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DarshanModi07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&title.color=38bdf8&icon.color=818cf8&text.color=94a3b8&rank.color=f472b6" width="100%" />
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
+</div>
 
 ## ◈ Connect
 
@@ -166,8 +182,6 @@ Three role-based dashboards (User, Owner, Admin) with live order management and 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:darshanmodi016@gmail.com)
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1b4b,80:0a0a1a,100:000000&height=120&section=footer&animation=twinkling" />
 
