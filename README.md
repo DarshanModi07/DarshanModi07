@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -34,7 +33,7 @@
 ```yaml
 name:       Darshan Modi
 college:    BVM Engineering — Vallabh Vidyanagar
-semester:   3rd (CS/IT)
+semester:   5th (CS/IT)
 
 role:       Software Development Engineer
 focus:
@@ -44,7 +43,7 @@ focus:
   - Full-stack MERN products
 
 building:
-  - AI Codebase Navigator (SaaS)
+  - SynapseOS (AI-powered collaborative workspace)
   - FoodyFly (MERN food platform)
 
 currently:
@@ -111,11 +110,11 @@ goal:       Top-tier SDE through relentless execution
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Achievements
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=DarshanModi07&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
