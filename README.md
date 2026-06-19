@@ -145,25 +145,11 @@ Three role-based dashboards (User, Owner, Admin) with live order management and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanModi07&bg_color=0d1117&color=38bdf8&line=818cf8&point=f472b6&area=true&area_color=38bdf820&hide_border=true&custom_title=Contribution+Activity&title_color=38bdf8" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModi07&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="340" />
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
-</div>
-
-## ◈ Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DarshanModi07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&title.color=38bdf8&icon.color=818cf8&text.color=94a3b8&rank.color=f472b6" width="100%" />
-
-</div>
+> Your real GitHub contribution calendar shows automatically below this README on your profile page — no widget needed for that.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
