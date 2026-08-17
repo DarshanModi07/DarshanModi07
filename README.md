@@ -173,22 +173,6 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=DarshanModi07&hide_border=true"/> 
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=github_dark&hide_border=true"/> 
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanModi07&theme=github_dark&hide_border=true"/> 
-
-<br>
-
-<img src="https://gitlyy.vercel.app/api/languages?username=DarshanModi07&theme=dark&hide_border=true"/> 
-
-<br>
-
-<img src="https://gitlyy.vercel.app/api/commits?username=DarshanModi07&hide_border=true"/> 
-
 </div>
 
 ---
