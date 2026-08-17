@@ -6,7 +6,11 @@
 
 <br>
 
-<img src="https://gitlyy.vercel.app/api/profile?username=DarshanModi07&hide_border=true"/>
+<img src="https://github.com/DarshanModi07.png" width="150" height="150" style="border-radius:50%;"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF66&center=true&vCenter=true&width=650&lines=01001001+01001110+01000111;01010011+01000101+01001110+01000100;01000010+01010101+01001001+01001100+01000100" />
 
 </div>
 
@@ -41,9 +45,10 @@ MERN Stack
 Real-Time Systems (Socket.IO)
 Problem Solving (DSA in C++)
 AI-Powered Applications
-PostgreSQL & Prisma
+PostgreSQL + Prisma
 Redis
-Linux & Computer Science Fundamentals
+Linux
+Computer Science Fundamentals
 ```
 
 ---
@@ -88,42 +93,44 @@ A collaborative workspace and project-management platform designed around organi
 * Role-Based Access Control (RBAC)
 * Real-time communication using Socket.IO
 * PostgreSQL with Prisma ORM
-* Redis for caching and supporting real-time features
-* AI-powered project assistance using RAG
+* Redis
+* AI-powered project assistance
+* RAG-based project intelligence
 * Vector search using Pinecone
-* Authentication and authorization with JWT
+* JWT authentication and authorization
 
 ---
 
 ## 🍔 FoodyFly
 
-A full-stack **MERN food ordering application** built to practice real-world web application development.
+A full-stack **MERN food-ordering application** built to practice real-world web application development.
 
 ### Key Areas
 
 * Food ordering workflow
-* User and application management
-* REST API development
-* MongoDB database
 * React frontend
-* Node.js and Express.js backend
+* Node.js backend
+* Express.js
+* MongoDB
+* REST APIs
+* User and application management
 
 ---
 
 ## 🔍 AI Codebase Navigator
 
-An AI-powered application that analyzes GitHub repositories and helps developers understand and navigate large codebases using AI and vector search.
+An AI-powered application designed to help developers understand and navigate GitHub repositories using AI, retrieval, and vector search.
 
 ### Key Areas
 
 * GitHub repository analysis
 * AI-powered codebase understanding
-* Vector search
 * RAG-based retrieval
+* Vector search
+* TypeScript
+* Supabase
 * Pinecone
 * Redis
-* Supabase
-* TypeScript
 
 ---
 
@@ -131,7 +138,17 @@ An AI-powered application that analyzes GitHub repositories and helps developers
 
 To become a strong **Software Development Engineer** capable of designing and building scalable, reliable, and intelligent software systems.
 
-My goal is to strengthen my **DSA, system design, backend engineering, and computer science fundamentals** and eventually work in strong product-based engineering teams.
+My goal is to strengthen my:
+
+* Data Structures & Algorithms
+* Backend Engineering
+* System Design
+* Database Engineering
+* Computer Science Fundamentals
+* AI Engineering
+* Problem Solving
+
+and eventually work in strong product-based engineering teams.
 
 ---
 
@@ -167,21 +184,27 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=DarshanModi07&hide_border=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanModi07&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 My GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanModi07&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanModi07&theme=github-compact&hide_border=true&custom_title=Darshan%20Modi%20-%20GitHub%20Activity" width="95%"/>
+
+</div>
 
 ---
 
@@ -193,7 +216,7 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 >
 > Improve continuously.
 >
-> Success is the result of small efforts repeated every day.
+> Every problem solved and every system built is another step toward becoming a better engineer.
 
 ---
 
@@ -201,7 +224,9 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 
 ### 🚀 Learning • Building • Growing
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Keep+Building.;Keep+Learning.;Keep+Solving.;Keep+Improving." />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:7B68EE"/>
 
