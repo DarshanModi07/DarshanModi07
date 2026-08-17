@@ -1,31 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:7B68EE&text=Darshan%20Modi&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:7B68EE&text=Darshan%20Modi&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github.com/DarshanModi07.png" width="180" height="180" style="border-radius:50%; border:5px solid #00FF66;"/>
-
-</td>
-<td align="center">
-
-<pre>
-01001001 01001110 01000111
-11001010 01010011 01000101
-00110101 01001110 01000001
-10101010 01100100 01010010
-01001111 01001001 01000100
-</pre>
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;MERN+%2B+PostgreSQL+%2B+Prisma+%2B+Redis;Building+Real+World+Projects;Learning+%7C+Building+%7C+Growing;DSA+%7C+Backend+%7C+System+Design+%7C+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;MERN+%2B+PostgreSQL+%2B+Prisma+%2B+Redis;Building+Real+World+Projects;Learning+%7C+Building+%7C+Growing;Open+to+Learning+and+Collaboration" />
 
 <br>
 
@@ -39,34 +16,34 @@
 
 I'm **Darshan Modi**, an Information Technology student at **Birla Vishvakarma Mahavidyalaya (BVM)** and an aspiring **Software Development Engineer**.
 
-I focus on building real-world software projects while strengthening my foundations in software engineering and computer science.
+I'm focused on building strong foundations in software engineering and developing real-world applications while continuously improving my problem-solving skills.
 
-### Currently Learning & Improving
+Currently focused on:
 
 * ⚙️ Backend Development
-* 🧩 System Design — HLD & LLD
-* 🗄️ PostgreSQL & Prisma ORM
+* 🧩 System Design (HLD & LLD)
+* 🗄️ Database Engineering (PostgreSQL, Prisma)
 * 🧠 Data Structures & Algorithms in C++
 * 🤖 AI-Powered Applications
-* 🔌 Real-Time Systems
-* 🐧 Linux Fundamentals
 * 💻 Computer Science Fundamentals
+* 🐧 Linux Fundamentals
+
+I enjoy learning by building projects and understanding how software systems work internally.
 
 ---
 
 # 🚀 Current Focus
 
 ```text
-DSA in C++
-Backend Engineering
+Backend Development
 System Design
 MERN Stack
-PostgreSQL + Prisma
-Redis
-Real-Time Systems
+Real-Time Systems (Socket.IO)
+Problem Solving (DSA in C++)
 AI-Powered Applications
-Linux
-Computer Science Fundamentals
+PostgreSQL & Prisma
+Redis
+Linux & Computer Science Fundamentals
 ```
 
 ---
@@ -85,13 +62,13 @@ Computer Science Fundamentals
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" />
 </p>
 
-### Databases & Infrastructure
+### Database & Caching
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -103,100 +80,70 @@ Computer Science Fundamentals
 
 ## 🧠 Synapse
 
-A collaborative workspace and project-management platform focused on organizational structure, role-based access, real-time communication, file management, and AI-powered project assistance.
+A collaborative workspace and project-management platform designed around organizational hierarchy, role-based access, real-time communication, file management, and AI-powered project assistance.
 
-### Highlights
+### Key Areas
 
 * Workspace → Department → Team → Project → Task structure
-* Role-Based Access Control
-* JWT Authentication & Authorization
-* Real-time communication with Socket.IO
-* PostgreSQL database
-* Prisma ORM
-* Redis
-* AI-powered assistance
-* RAG-based project intelligence
+* Role-Based Access Control (RBAC)
+* Real-time communication using Socket.IO
+* PostgreSQL with Prisma ORM
+* Redis for caching and supporting real-time features
+* AI-powered project assistance using RAG
 * Vector search using Pinecone
+* Authentication and authorization with JWT
 
 ---
 
 ## 🍔 FoodyFly
 
-A full-stack **MERN food-ordering application** built to practice real-world application development.
+A full-stack **MERN food ordering application** built to practice real-world web application development.
 
-### Highlights
+### Key Areas
 
 * Food ordering workflow
-* React frontend
-* Node.js & Express.js backend
+* User and application management
+* REST API development
 * MongoDB database
-* REST API architecture
-* User/application management
+* React frontend
+* Node.js and Express.js backend
 
 ---
 
 ## 🔍 AI Codebase Navigator
 
-An AI-powered application designed to help developers understand and navigate GitHub codebases using AI, retrieval, and vector search.
+An AI-powered application that analyzes GitHub repositories and helps developers understand and navigate large codebases using AI and vector search.
 
-### Highlights
+### Key Areas
 
 * GitHub repository analysis
 * AI-powered codebase understanding
-* RAG-based retrieval
 * Vector search
-* TypeScript
-* Supabase
+* RAG-based retrieval
 * Pinecone
 * Redis
+* Supabase
+* TypeScript
 
 ---
 
 # 🎯 Career Objective
 
-To become a strong **Software Development Engineer** with solid foundations in:
+To become a strong **Software Development Engineer** capable of designing and building scalable, reliable, and intelligent software systems.
 
-```text
-Data Structures & Algorithms
-Backend Engineering
-System Design
-Databases
-Computer Science
-AI Engineering
-Software Development
-```
-
-I want to build scalable and reliable software systems, solve meaningful engineering problems, and continuously improve through learning and building.
+My goal is to strengthen my **DSA, system design, backend engineering, and computer science fundamentals** and eventually work in strong product-based engineering teams.
 
 ---
 
 # 📚 Core Computer Science
 
-* Data Structures & Algorithms
-* Database Management Systems
-* Operating Systems
+* Data Structures & Algorithms (C++)
+* Database Management Systems (DBMS)
 * Computer Networking
+* Operating System Fundamentals
 * Computer Fundamentals
 * Linux Fundamentals
 * Problem Solving
-
----
-
-# 🧩 What I'm Working Towards
-
-```text
-                    SOFTWARE ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-         DSA          SYSTEM DESIGN      BACKEND
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                     REAL PROJECTS
-                           │
-                    AI + SOFTWARE
-```
 
 ---
 
@@ -224,23 +171,23 @@ I want to build scalable and reliable software systems, solve meaningful enginee
 
 <div align="center">
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=DarshanModi07&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=DarshanModi07&hide_border=true"/> 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=github_dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanModi07&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanModi07&theme=github_dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://gitlyy.vercel.app/api/languages?username=DarshanModi07&theme=dark&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=DarshanModi07&theme=dark&hide_border=true"/> 
 
 <br>
 
-<img src="https://gitlyy.vercel.app/api/commits?username=DarshanModi07&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/commits?username=DarshanModi07&hide_border=true"/> 
 
 </div>
 
@@ -249,30 +196,28 @@ I want to build scalable and reliable software systems, solve meaningful enginee
 # 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanModi07&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </p>
 
 ---
 
 # ⚡ Developer Philosophy
 
-> **Learn. Build. Solve. Improve.**
+> Learn relentlessly.
 >
-> Every problem solved and every system built is another step toward becoming a better engineer.
+> Build consistently.
+>
+> Improve continuously.
+>
+> Success is the result of small efforts repeated every day.
 
 ---
 
 <div align="center">
 
-### `01001100 01000101 01000001 01010010 01001110`
-
 ### 🚀 Learning • Building • Growing
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Keep+Building.;Keep+Learning.;Keep+Solving." />
-
-<br>
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:7B68EE"/>
 
