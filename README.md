@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DarshanModi07&label=PROFILE+VIEWS&color=00c9ff&style=flat-square"/>
+<img src="https://gitlyy.vercel.app/api/profile?username=DarshanModi07&hide_border=true"/>
 
 </div>
 
@@ -171,16 +171,7 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanModi07&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=DarshanModi07&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br>
-
-<img src="https://ghchart.rshah.org/00C9FF/DarshanModi07" width="95%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModi07&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=DarshanModi07&hide_border=true"/> 
 
 </div>
 
