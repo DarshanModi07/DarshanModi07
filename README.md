@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:7B68EE&text=Darshan%20Modi&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;MERN+%2B+PostgreSQL+%2B+Prisma+%2B+Redis;Building+Real+World%2C+Production-Grade+Projects;Learning+%7C+Building+%7C+Growing;Open+to+Learning+and+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;MERN+%2B+PostgreSQL+%2B+Prisma+%2B+Redis;Building+Real+World+Projects;Learning+%7C+Building+%7C+Growing;Open+to+Learning+and+Collaboration" />
 
 <br>
 
@@ -14,18 +14,21 @@
 
 # 👋 About Me
 
-I'm **Darshan Modi**, an Information Technology student at BVM Engineering (GTU) and an aspiring **Software Development Engineer**, passionate about building scalable backend systems and AI-powered products.
+I'm **Darshan Modi**, an Information Technology student at **Birla Vishvakarma Mahavidyalaya (BVM)** and an aspiring **Software Development Engineer**.
 
-Currently focused on strengthening my foundation in:
+I'm focused on building strong foundations in software engineering and developing real-world applications while continuously improving my problem-solving skills.
+
+Currently focused on:
 
 * ⚙️ Backend Development
 * 🧩 System Design (HLD & LLD)
 * 🗄️ Database Engineering (PostgreSQL, Prisma)
-* 🧠 Data Structures & Algorithms
+* 🧠 Data Structures & Algorithms in C++
 * 🤖 AI-Powered Applications
-* 💻 Software Engineering Principles
+* 💻 Computer Science Fundamentals
+* 🐧 Linux Fundamentals
 
-I enjoy turning ideas into production-grade systems through continuous learning, project development, and hands-on experimentation.
+I enjoy learning by building projects and understanding how software systems work internally.
 
 ---
 
@@ -38,6 +41,9 @@ MERN Stack
 Real-Time Systems (Socket.IO)
 Problem Solving (DSA in C++)
 AI-Powered Applications
+PostgreSQL & Prisma
+Redis
+Linux & Computer Science Fundamentals
 ```
 
 ---
@@ -72,33 +78,60 @@ AI-Powered Applications
 
 # 💡 Featured Projects
 
-## 🧠 SynapseOS
+## 🧠 Synapse
 
-AI-powered collaborative workspace and project-management SaaS with real-time encrypted chat, an AI analytics engine, and a RAG-based project intelligence assistant.
+A collaborative workspace and project-management platform designed around organizational hierarchy, role-based access, real-time communication, file management, and AI-powered project assistance.
+
+### Key Areas
+
+* Workspace → Department → Team → Project → Task structure
+* Role-Based Access Control (RBAC)
+* Real-time communication using Socket.IO
+* PostgreSQL with Prisma ORM
+* Redis for caching and supporting real-time features
+* AI-powered project assistance using RAG
+* Vector search using Pinecone
+* Authentication and authorization with JWT
 
 ---
 
 ## 🍔 FoodyFly
 
-Full-stack MERN food ordering platform with role-based access, Stripe payments, Google OAuth, and an AI chatbot.
+A full-stack **MERN food ordering application** built to practice real-world web application development.
+
+### Key Areas
+
+* Food ordering workflow
+* User and application management
+* REST API development
+* MongoDB database
+* React frontend
+* Node.js and Express.js backend
 
 ---
 
 ## 🔍 AI Codebase Navigator
 
-A TypeScript SaaS that analyzes GitHub repositories using vector search and AI, built with Supabase, Pinecone, and Redis.
+An AI-powered application that analyzes GitHub repositories and helps developers understand and navigate large codebases using AI and vector search.
 
----
+### Key Areas
 
-## 🩸 Blood Donor Emergency Finder
-
-A MERN-based platform that connects people in emergencies with nearby blood donors in real time.
+* GitHub repository analysis
+* AI-powered codebase understanding
+* Vector search
+* RAG-based retrieval
+* Pinecone
+* Redis
+* Supabase
+* TypeScript
 
 ---
 
 # 🎯 Career Objective
 
-To become a highly skilled Software Development Engineer capable of building scalable, reliable, and AI-powered backend systems that solve real-world problems — and to grow into product-based companies and eventually FAANG.
+To become a strong **Software Development Engineer** capable of designing and building scalable, reliable, and intelligent software systems.
+
+My goal is to strengthen my **DSA, system design, backend engineering, and computer science fundamentals** and eventually work in strong product-based engineering teams.
 
 ---
 
@@ -108,6 +141,8 @@ To become a highly skilled Software Development Engineer capable of building sca
 * Database Management Systems (DBMS)
 * Computer Networking
 * Operating System Fundamentals
+* Computer Fundamentals
+* Linux Fundamentals
 * Problem Solving
 
 ---
