@@ -2,28 +2,62 @@ name: 3D Contribution Skyline
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every day at midnight IST (18:30 UTC)
+    - cron: "30 18 * * *"
+
+  # Allows manual execution from GitHub Actions
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      # Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
+      # Generate all 3D contribution skyline themes
       - name: Generate 3D contribution skyline
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit and push the generated image
+      # Rotate the image displayed in README.md
+      - name: Rotate skyline theme
+        run: |
+          themes=(
+            "profile-night-rainbow.svg"
+            "profile-green-animate.svg"
+            "profile-green.svg"
+            "profile-season-animate.svg"
+            "profile-season.svg"
+            "profile-south-season-animate.svg"
+            "profile-south-season.svg"
+            "profile-night-view.svg"
+            "profile-night-green.svg"
+            "profile-gitblock.svg"
+          )
+
+          index=$(( (${{ github.run_number }} - 1) % ${#themes[@]} ))
+          theme="${themes[$index]}"
+
+          echo "Selected skyline theme: $theme"
+
+          sed -i "s#./profile-3d-contrib/[^\"']*\.svg#./profile-3d-contrib/$theme#" README.md
+
+      # Commit generated images + README change
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add -A
-          git commit -m "chore: update 3D contribution skyline" || exit 0
+
+          git commit -m "chore: rotate 3D contribution skyline" || exit 0
+
           git push
