@@ -2,10 +2,7 @@ name: 3D Contribution Skyline
 
 on:
   schedule:
-    # Runs every day at midnight IST (18:30 UTC)
     - cron: "30 18 * * *"
-
-  # Allows manual execution from GitHub Actions
   workflow_dispatch:
 
 permissions:
@@ -16,19 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
-      # Generate all 3D contribution skyline themes
       - name: Generate 3D contribution skyline
         uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # Rotate the image displayed in README.md
       - name: Rotate skyline theme
+        shell: bash
         run: |
           themes=(
             "profile-night-rainbow.svg"
@@ -43,21 +38,43 @@ jobs:
             "profile-gitblock.svg"
           )
 
-          index=$(( (${{ github.run_number }} - 1) % ${#themes[@]} ))
-          theme="${themes[$index]}"
+          state_file=".github/skyline-theme-index"
 
+          if [ -f "$state_file" ]; then
+            current_index=$(cat "$state_file")
+          else
+            current_index=0
+          fi
+
+          if ! [[ "$current_index" =~ ^[0-9]+$ ]]; then
+            current_index=0
+          fi
+
+          theme="${themes[$current_index]}"
+
+          echo "Current theme index: $current_index"
           echo "Selected skyline theme: $theme"
 
-          sed -i "s#./profile-3d-contrib/[^\"']*\.svg#./profile-3d-contrib/$theme#" README.md
+          sed -i -E 's#\./profile-3d-contrib/[^"'\'' ]+\.svg#./profile-3d-contrib/'"$theme"'#' README.md
 
-      # Commit generated images + README change
+          next_index=$(( (current_index + 1) % ${#themes[@]} ))
+
+          echo "$next_index" > "$state_file"
+
+          echo "Next theme index: $next_index"
+
       - name: Commit and push changes
+        shell: bash
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add -A
 
-          git commit -m "chore: rotate 3D contribution skyline" || exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
+          git commit -m "chore: rotate 3D contribution skyline"
           git push
