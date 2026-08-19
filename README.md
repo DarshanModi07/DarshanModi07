@@ -10,32 +10,31 @@
 
 </div>
 
-👋 About Me
+---
 
-I'm Darshan Modi, an Information Technology student at Birla Vishvakarma Mahavidyalaya (BVM) and an aspiring Software Development Engineer.
+# 👋 About Me
+
+I'm **Darshan Modi**, an Information Technology student at **Birla Vishvakarma Mahavidyalaya (BVM)** and an aspiring **Software Development Engineer**.
 
 I'm focused on building strong foundations in software engineering and developing real-world applications while continuously improving my problem-solving skills.
 
 Currently focused on:
 
-⚙️ Backend Development
-
-🧩 System Design (HLD & LLD)
-
-🗄️ Database Engineering (PostgreSQL, Prisma)
-
-🧠 Data Structures & Algorithms in C++
-
-🤖 AI-Powered Applications
-
-💻 Computer Science Fundamentals
-
-🐧 Linux Fundamentals
+* ⚙️ Backend Development
+* 🧩 System Design (HLD & LLD)
+* 🗄️ Database Engineering (PostgreSQL, Prisma)
+* 🧠 Data Structures & Algorithms in C++
+* 🤖 AI-Powered Applications
+* 💻 Computer Science Fundamentals
+* 🐧 Linux Fundamentals
 
 I enjoy learning by building projects and understanding how software systems work internally.
 
-🚀 Current Focus
+---
 
+# 🚀 Current Focus
+
+```text
 Backend Development
 System Design
 MERN Stack
@@ -45,120 +44,110 @@ AI-Powered Applications
 PostgreSQL & Prisma
 Redis
 Linux & Computer Science Fundamentals
+```
 
-🛠 Tech Stack
+---
 
-Languages
+# 🛠 Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
 </p>
 
-Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" />
 </p>
 
-Database & Caching
+### Database & Caching
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis" />
 </p>
 
-Tools & Platforms
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-💡 Featured Projects
+---
 
-🧠 Synapse
+# 💡 Featured Projects
+
+## 🧠 Synapse
 
 A collaborative workspace and project-management platform designed around organizational hierarchy, role-based access, real-time communication, file management, and AI-powered project assistance.
 
-Key Areas
+### Key Areas
 
-Workspace → Department → Team → Project → Task structure
+* Workspace → Department → Team → Project → Task structure
+* Role-Based Access Control (RBAC)
+* Real-time communication using Socket.IO
+* PostgreSQL with Prisma ORM
+* Redis for caching and supporting real-time features
+* AI-powered project assistance using RAG
+* Vector search using Pinecone
+* Authentication and authorization with JWT
 
-Role-Based Access Control (RBAC)
+---
 
-Real-time communication using Socket.IO
+## 🍔 FoodyFly
 
-PostgreSQL with Prisma ORM
+A full-stack **MERN food ordering application** built to practice real-world web application development.
 
-Redis for caching and supporting real-time features
+### Key Areas
 
-AI-powered project assistance using RAG
+* Food ordering workflow
+* User and application management
+* REST API development
+* MongoDB database
+* React frontend
+* Node.js and Express.js backend
 
-Vector search using Pinecone
+---
 
-Authentication and authorization with JWT
-
-🍔 FoodyFly
-
-A full-stack MERN food ordering application built to practice real-world web application development.
-
-Key Areas
-
-Food ordering workflow
-
-User and application management
-
-REST API development
-
-MongoDB database
-
-React frontend
-
-Node.js and Express.js backend
-
-🔍 AI Codebase Navigator
+## 🔍 AI Codebase Navigator
 
 An AI-powered application that analyzes GitHub repositories and helps developers understand and navigate large codebases using AI and vector search.
 
-Key Areas
+### Key Areas
 
-GitHub repository analysis
+* GitHub repository analysis
+* AI-powered codebase understanding
+* Vector search
+* RAG-based retrieval
+* Pinecone
+* Redis
+* Supabase
+* TypeScript
 
-AI-powered codebase understanding
+---
 
-Vector search
+# 🎯 Career Objective
 
-RAG-based retrieval
+To become a strong **Software Development Engineer** capable of designing and building scalable, reliable, and intelligent software systems.
 
-Pinecone
+My goal is to strengthen my **DSA, system design, backend engineering, and computer science fundamentals** and eventually work in strong product-based engineering teams.
 
-Redis
+---
 
-Supabase
+# 📚 Core Computer Science
 
-TypeScript
+* Data Structures & Algorithms (C++)
+* Database Management Systems (DBMS)
+* Computer Networking
+* Operating System Fundamentals
+* Computer Fundamentals
+* Linux Fundamentals
+* Problem Solving
 
-🎯 Career Objective
+---
 
-To become a strong Software Development Engineer capable of designing and building scalable, reliable, and intelligent software systems.
-
-My goal is to strengthen my DSA, system design, backend engineering, and computer science fundamentals and eventually work in strong product-based engineering teams.
-
-📚 Core Computer Science
-
-Data Structures & Algorithms (C++)
-
-Database Management Systems (DBMS)
-
-Computer Networking
-
-Operating System Fundamentals
-
-Computer Fundamentals
-
-Linux Fundamentals
-
-Problem Solving
-
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -176,7 +165,9 @@ Problem Solving
 
 </p>
 
-🏙️ GitHub Contribution Skyline (3D)
+---
+
+# 🏙️ GitHub Contribution Skyline (3D)
 
 <div align="center">
 
@@ -190,7 +181,9 @@ Problem Solving
 
 </div>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -207,7 +200,9 @@ Problem Solving
 
 </div>
 
-📈 Activity Graph
+---
+
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -215,21 +210,25 @@ Problem Solving
 
 </p>
 
-⚡ Developer Philosophy
+---
 
-Learn relentlessly.
+# ⚡ Developer Philosophy
 
-Build consistently.
+> Learn relentlessly.
+>
+> Build consistently.
+>
+> Improve continuously.
+>
+> Success is the result of small efforts repeated every day.
 
-Improve continuously.
-
-Success is the result of small efforts repeated every day.
+---
 
 <div align="center">
 
-🚀 Learning • Building • Growing
+### 🚀 Learning • Building • Growing
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:7B68EE"/>
 
