@@ -2,6 +2,7 @@ name: 3D Contribution Skyline
 
 on:
   schedule:
+    # Every night at 12:00 AM IST (18:30 UTC)
     - cron: "30 18 * * *"
   workflow_dispatch:
 
@@ -25,6 +26,8 @@ jobs:
       - name: Rotate skyline theme
         shell: bash
         run: |
+          set -e
+
           themes=(
             "profile-night-rainbow.svg"
             "profile-green-animate.svg"
@@ -39,9 +42,10 @@ jobs:
           )
 
           state_file=".github/skyline-theme-index"
+          readme_file="README.md"
 
           if [ -f "$state_file" ]; then
-            current_index=$(cat "$state_file")
+            current_index="$(cat "$state_file")"
           else
             current_index=0
           fi
@@ -51,30 +55,36 @@ jobs:
           fi
 
           theme="${themes[$current_index]}"
-
-          echo "Current theme index: $current_index"
-          echo "Selected skyline theme: $theme"
-
-          sed -i -E 's#\./profile-3d-contrib/[^"'\'' ]+\.svg#./profile-3d-contrib/'"$theme"'#' README.md
-
           next_index=$(( (current_index + 1) % ${#themes[@]} ))
 
-          echo "$next_index" > "$state_file"
-
+          echo "Current theme: $theme"
           echo "Next theme index: $next_index"
 
-      - name: Commit and push changes
+          # Update only the existing 3D skyline image reference in README.md.
+          sed -i -E \
+            's#\./profile-3d-contrib/[^"[:space:]]+\.svg#./profile-3d-contrib/'"$theme"'#' \
+            "$readme_file"
+
+          # Save the next theme index.
+          printf '%s\n' "$next_index" > "$state_file"
+
+          # Stage only files relevant to the rotation.
+          git add "$readme_file" "$state_file" "profile-3d-contrib/$theme"
+
+      - name: Commit and push only when needed
         shell: bash
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add -A
+          set -e
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No skyline changes. Nothing to commit."
             exit 0
           fi
 
-          git commit -m "chore: rotate 3D contribution skyline"
+          # GitHub Actions bot identity.
+          # Do not use your personal GitHub email here.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: update 3D contribution skyline"
           git push
