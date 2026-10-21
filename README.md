@@ -171,7 +171,7 @@ My goal is to strengthen my **DSA, system design, backend engineering, and compu
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%"/>
 
 <br>
 
